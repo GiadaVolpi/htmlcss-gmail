@@ -1,0 +1,67 @@
+body{
+    width:50%;
+    margin: auto;
+    background-color: grey;
+    background-image: url("https://www.gastronomiafasani.com/wp-content/uploads/2017/09/Sfondo-legno-bianco.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 16px;
+}
+
+header {
+    height: 50px;
+    line-height: 50px;
+}
+
+#logo {
+    padding-top: 10px;
+    height: 30px;
+}
+
+header span {
+    font-weight: bold;
+    font-size: 24px;
+    color: grey;
+    margin-left: 15px;
+}
+
+hr {
+    border-color: rgb(255, 0, 0);
+}
+
+#input_text {
+    width: 50%;
+}
+
+section span {
+    font-size: 19px;
+    background-color: darkblue;
+    border-radius: 100%;
+    color: white;
+    padding: 8px;
+}
+
+.info {
+    margin-top: 35px;
+    margin-bottom: 15px;
+    }
+
+.mail {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid black;
+    background-color: #d6d6d6;
+}
+
+.mailunread {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid black;
+    background-color: darkgray;
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+}
